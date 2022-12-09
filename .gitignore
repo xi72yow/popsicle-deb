@@ -15,4 +15,4 @@ vendor.tar
 *.swp
 .appimagecraft-*/
 popslice_1.0-1_amd64/
-popslice-gtk_1.0_amd64.deb
+*.deb
